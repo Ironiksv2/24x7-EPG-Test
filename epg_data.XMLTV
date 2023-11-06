@@ -1,5 +1,7 @@
-[
-  {
+<?xml version="1.0" encoding="utf-8"?>
+<tv date="20230101120000 +0000" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+  <channel id="YOUR_CHANNEL_ID">
+    <display-name>YOUR_CHANNEL_NAME</display-name
     "channel": "24/7 Channel",
     "episodes": [
       {
