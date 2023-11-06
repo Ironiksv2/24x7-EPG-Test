@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv date="20230101120000 +0000" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
+  <channel id="YOUR_CHANNEL_ID">
+    <display-name>YOUR_CHANNEL_NAME</display-name>
+  </channel>
+
+  <programme channel="YOUR_CHANNEL_ID" start="20230101120000 +0000" stop="20230101130000 +0000">
+    <title>24/7</title>
+    <desc>24/7 Show Description</desc>
+    <sub-title>24/7 Subtitle</sub-title>
+  </programme>
+
+</tv>
