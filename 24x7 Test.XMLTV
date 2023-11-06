@@ -5,7 +5,7 @@
     <display-name>YOUR_CHANNEL_NAME</display-name>
   </channel>
 
-  <programme start="20230101120000 +0000" stop="20230101130000 +0000">
+  <programme channel="YOUR_CHANNEL_ID" start="20230101120000 +0000" stop="20230101130000 +0000">
     <title>24/7</title>
     <desc>24/7 Show Description</desc>
     <sub-title>24/7 Subtitle</sub-title>
